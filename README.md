@@ -16,6 +16,8 @@ Either run with or without command line args.
 OsuFileIO_CLI {input} {output}
 ```
 
+A .osu file must be used for the input.
+
 Using `checksum` for output will use the map's MD5 hash as the output file name.
 
 ## Dependencies
