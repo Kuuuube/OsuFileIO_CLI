@@ -4,7 +4,7 @@ Jank CLI for [OsuFileIO](https://github.com/Xarib/OsuFileIO) to output analysis 
 
 ## Downloads
 
-Downloads with are available in [Releases](https://github.com/Kuuuube/osuSkills_Scripts/releases).
+Downloads with are available in [Releases](https://github.com/Kuuuube/OsuFileIO_CLI/releases).
 
 ## Usage
 
