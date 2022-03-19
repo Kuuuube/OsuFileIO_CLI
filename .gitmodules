@@ -1,0 +1,3 @@
+[submodule ".modules/OsuFileIO"]
+	path = .modules/OsuFileIO
+	url = https://github.com/Xarib/OsuFileIO
